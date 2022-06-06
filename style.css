@@ -1,0 +1,41 @@
+.grade { 
+    display:flex;
+    justify-content: flex-start;
+    background-color: chartreuse;
+    
+}
+.grade1 { 
+    display:flex;
+    justify-content: flex-start;
+    background-color: darkorchid;
+}
+.grade2 { 
+    display:flex;
+    justify-content: flex-start;
+    background-color: darkorchid;
+}
+.grade3 { 
+    display:flex;
+    justify-content: flex-start;
+   background-color: chartreuse;
+}
+.cabecalho{
+    background-color:darkmagenta;
+    color: chartreuse;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}.grade1:hover img { 
+    opacity: 0.33;
+}
+.grade:hover img { 
+    opacity: 0.33;
+}
+.grade2:hover img { 
+    opacity: 0.33;
+}
+.grade3:hover img { 
+    opacity: 0.33;
+}
+
